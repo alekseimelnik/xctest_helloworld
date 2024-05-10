@@ -1,0 +1,8 @@
+Application, 0x15a550150, pid: 41576, label: 'Hello World' <App element pid: 41576>
+  Window (Main), 0x15a5507a0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 41576, elementOrHash.elementID: 5164409712.3>
+    Other, 0x15a53ddc0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 41576, elementOrHash.elementID: 5176858848.4>
+      Other, 0x15a5588a0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 41576, elementOrHash.elementID: 5166718784.5>
+        Other, 0x15a540b70, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 41576, elementOrHash.elementID: 5184396288.6>
+          Other, 0x15a561470, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 41576, elementOrHash.elementID: 105553174911872.7>
+            Image, 0x15a552120, {{185.7, 417.7}, {21.7, 21.7}}, label: 'Globe' <AX element pid: 41576, elementOrHash.elementID: 105553174885984.8>
+            StaticText, 0x15a550f90, {{149.2, 441.2}, {94.7, 20.3}}, label: 'Hello, world!' <AX element pid: 41576, elementOrHash.elementID: 105553174911392.9>
